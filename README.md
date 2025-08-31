@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=longrict&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longrict&layout=compact&theme=radical">
+  <img src="https://github-profile-trophy.vercel.app/?username=longrict&theme=onedark">
+</p>
 <!--
 **longrict/longrict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
