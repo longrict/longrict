@@ -1,22 +1,18 @@
-<h1 align = "center">Longric Tran</h1>
+# Hi there 👋
 
-<div id="header">
-  <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/longric/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <br/> 
-  <br/> 
-</div>
-
-<ul>
-  <li>I’m a fourth year computer science student at Toronto Metropolitan University.</li>
-  <li>You can reach out to me through my LinkedIn above!</li>
-</ul>
+I'm Longric, a fourth year Comptuer Science student at Toronto Metropolitan University (Formerly Ryerson University). <br>
+Currently a lead developer @ [TMU Blueprint](https://tmublueprint.github.io/bp-website/), potentially future cashier @ McDonalds. <br>
+Feel free to reach out!
 
 <hr>
 
-### Technical Skills 💻:
+### 🌟 Featured Projects :
+1. [IttyBittyCritters](https://github.com/tmublueprint/bp-ibc) : A site builder under development by TMU Blueprint for non-profit organization IttyBittyCritters.
+2. [Flight Management System](https://github.com/longrict/cps731) : A flight management system developed for my Software Engineering class.
+
+<hr>
+
+### 💻 Tech Stack :
 <div id="languages" align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
   <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
@@ -33,18 +29,12 @@
   <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   <a href="https://www.oracle.com/ca-en/database/sqldeveloper/"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
   <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
+<hr>
+
+### 🌐 Socials:
+<div id="header">
+  <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/longric/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
-<!--
-**longrict/longrict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
